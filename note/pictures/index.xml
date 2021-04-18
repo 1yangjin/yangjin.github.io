@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>照片 on 杨金</title>
+    <title>照片库 on 杨金</title>
     <link>/note/pictures/</link>
-    <description>Recent content in 照片 on 杨金</description>
+    <description>Recent content in 照片库on 杨金</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 31 Dec 2020 10:12:55 +0800</lastBuildDate><atom:link href="/note/pictures/index.xml" rel="self" type="application/rss+xml" />
+   
     <item>
-<title>照片1</title>
+<title>2020</title>
 <link>/note/2020.jpg/</link>  <!2020是自建的一个测试文件> 
 <pubDate>Thu, 31 Dec 2020 10:12:55 +0800</pubDate>     
+<guid>/note/2020.jpg/</guid>
+    </item> 
+    
+    
+    
+    
+    
+    
+    </channel>
+</rss> 
